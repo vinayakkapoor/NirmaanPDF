@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "901587227083",
+    "firebase_url": "https://nirmaanpdf.firebaseio.com",
+    "project_id": "nirmaanpdf",
+    "storage_bucket": "nirmaanpdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901587227083:android:ebc27364bba92e60ae664e",
+        "android_client_info": {
+          "package_name": "com.pdf.NirmaanPDF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901587227083-jgp3h8hdufdu7s3kt731gajth23n8qcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pdf.NirmaanPDF",
+            "certificate_hash": "872c5f2d6b67e0086203277a15427083b27b7308"
+          }
+        },
+        {
+          "client_id": "901587227083-c4v9r29icqhoouo0njjq9k0v173khl8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYA6Qc0p1L9bWL1DHv8axHiJp4RpCb_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901587227083-c4v9r29icqhoouo0njjq9k0v173khl8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901587227083:android:2bfc074df35a6fa0ae664e",
+        "android_client_info": {
+          "package_name": "com.pdf.nirmaanpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901587227083-c4v9r29icqhoouo0njjq9k0v173khl8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYA6Qc0p1L9bWL1DHv8axHiJp4RpCb_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901587227083-c4v9r29icqhoouo0njjq9k0v173khl8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
